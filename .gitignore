@@ -1,0 +1,4 @@
+.env
+*.csv
+completed_players.txt
+__pycache__/
